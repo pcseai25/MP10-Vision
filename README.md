@@ -1,7 +1,6 @@
-Vision
+                                  Vision
 Overview
 Vision is a web-based tool designed to aid individuals with color vision deficiencies and detect cataracts using machine learning algorithms. The project offers live color correction for images to enhance visibility for color blind users and incorporates a cataract detection model for early diagnosis. Additionally, a browser extension is provided for seamless integration into daily browsing activities.
-
 Features
 Live Image Color Correction: Real-time color correction of images to improve visibility for users with color vision deficiencies.
 Cataract Detection: Utilizes a machine learning model to detect cataracts from uploaded images, facilitating early diagnosis.
